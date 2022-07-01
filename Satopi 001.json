@@ -1,0 +1,33 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://horizon-testnet.stellar.org/operations/653243050889217"
+    },
+    "transaction": {
+      "href": "https://horizon-testnet.stellar.org/transactions/4e245e72ed6cecc182afc167f80cfdb7530ab015e2a6ded5de24b0f1b2f31e9e"
+    },
+    "effects": {
+      "href": "https://horizon-testnet.stellar.org/operations/653243050889217/effects"
+    },
+    "succeeds": {
+      "href": "https://horizon-testnet.stellar.org/effects?order=desc\u0026cursor=653243050889217"
+    },
+    "precedes": {
+      "href": "https://horizon-testnet.stellar.org/effects?order=asc\u0026cursor=653243050889217"
+    }
+  },
+  "id": "653243050889217",
+  "paging_token": "653243050889217",
+  "transaction_successful": true,
+  "source_account": "GCXJPGTPAFX6X2EJQ56PYFHQQ3V2Q7XHR3CB2XCZTJKPEBPHNSP33KYO",
+  "type": "payment",
+  "type_i": 1,
+  "created_at": "2022-07-01T16:34:47Z",
+  "transaction_hash": "4e245e72ed6cecc182afc167f80cfdb7530ab015e2a6ded5de24b0f1b2f31e9e",
+  "asset_type": "credit_alphanum4",
+  "asset_code": "EE0",
+  "asset_issuer": "GC2XN6PFTLP7AHXINIHR4IMO7CIOWG2PSAIZVTYDAGS2JWZKDX5X3IF3",
+  "from": "GCXJPGTPAFX6X2EJQ56PYFHQQ3V2Q7XHR3CB2XCZTJKPEBPHNSP33KYO",
+  "to": "GCD2LKBWB36B3CL2YMXVXD4ORXX6LXD2YC6UQMQM3WZTQL4BTZ5GNMWI",
+  "amount": "1.9379379"
+}
